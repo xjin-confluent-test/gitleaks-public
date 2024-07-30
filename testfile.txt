@@ -1,0 +1,6 @@
+username
+AWS_SECRET_ACCESS_KEY=abcd1234ABCD1234abcd1234ABCD1234abcd1234
+This is a test!
+password=ex@mplepassword
+password=******
+More test...
